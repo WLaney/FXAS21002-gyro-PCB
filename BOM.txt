@@ -1,0 +1,7 @@
+component/value, size, quanity, digikey part number
+--------------------------------------------------------
+FXAS21002 IC, NA, 1, FXAS21002CQR1CT-ND
+10K resistor, 0805, 2, 311-10.0KCRCT-ND
+47k resistor, 0805, 1, 	311-47KARCT-ND
+0.1uF capacitor, 0805, 3, 478-3755-1-ND
+1.0uF capacitor, 0805, 1 311-1365-1-ND

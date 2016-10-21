@@ -177,10 +177,12 @@
 <text x="10.668" y="7.239" size="0.8128" layer="21" font="vector" ratio="15">10k</text>
 <text x="10.668" y="3.429" size="0.8128" layer="21" font="vector" ratio="15">10k</text>
 <text x="8.255" y="12.827" size="0.8128" layer="21" font="vector" ratio="15">1.0uF</text>
-<text x="6.858" y="10.033" size="0.8128" layer="21" font="vector" ratio="15" rot="R90">0.1uF</text>
-<text x="2.286" y="12.7" size="0.8128" layer="21" font="vector" ratio="15">100nF</text>
+<text x="6.731" y="10.033" size="0.8128" layer="21" font="vector" ratio="15" rot="R90">0.1uF</text>
+<text x="2.286" y="12.954" size="0.8128" layer="21" font="vector" ratio="15">100nF</text>
 <text x="1.651" y="7.493" size="0.8128" layer="21" font="vector" ratio="15" rot="R90">0.1uF</text>
 <text x="8.001" y="2.921" size="0.8128" layer="21" font="vector" ratio="15" rot="R90">47k</text>
+<circle x="5.461" y="6.731" radius="0.283978125" width="0.254" layer="21"/>
+<text x="4.064" y="4.191" size="0.8128" layer="21" font="vector" ratio="15" rot="R90">FXAS21002</text>
 </plain>
 <libraries>
 <library name="SparkFun-Passives">

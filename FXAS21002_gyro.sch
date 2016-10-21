@@ -2158,9 +2158,9 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <label x="27.94" y="73.66" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="JP5" gate="G$1" pin="5"/>
-<wire x1="12.7" y1="99.06" x2="17.78" y2="99.06" width="0.1524" layer="91"/>
-<label x="17.78" y="99.06" size="1.27" layer="95" xref="yes"/>
+<pinref part="JP5" gate="G$1" pin="4"/>
+<wire x1="12.7" y1="96.52" x2="17.78" y2="96.52" width="0.1524" layer="91"/>
+<label x="17.78" y="96.52" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 </nets>

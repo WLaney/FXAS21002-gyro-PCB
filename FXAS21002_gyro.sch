@@ -1933,7 +1933,7 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <part name="R2" library="SparkFun-Passives" deviceset="RESISTOR" device="0805-RES" value="10k"/>
 <part name="GND2" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="C1" library="SparkFun-Passives" deviceset="CAP" device="0805" value="0.1uF"/>
-<part name="C2" library="SparkFun-Passives" deviceset="CAP" device="0805" value="100nF"/>
+<part name="C2" library="SparkFun-Passives" deviceset="CAP" device="0805" value="0.1uF"/>
 <part name="GND3" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="C3" library="SparkFun-Passives" deviceset="CAP" device="0805" value="0.1uF"/>
 <part name="C4" library="SparkFun-Passives" deviceset="CAP" device="0805" value="1.0uF"/>

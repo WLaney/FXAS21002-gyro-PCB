@@ -26,3 +26,25 @@ Decoupling capacitors were added as near to the chips as possible to minimize no
 0805 package size is used for all passive components. This size was selected because I believe it to be a good compromise between size and ease of placement.
 
 On October 28, 2016 three boards were ordered from OSHpark for \$1.85. This corresponds to \$0.62 per board.
+
+## Assembily Information
+
+Assemblie steps:
+(please note that these steps represent what I beilive to be the optimal order of operations. They may not be. Addionaly not all boards were assembled in this way as I expermented with the order)
+
+1. Applie solder paste for FXAS21002C
+2. Applie solder past for passive components
+3. Place FXAS21002C
+4. Place passive components
+5. Place full board into solder reflow oven
+6. Wipe down with isopropal alchohal 
+7. Check if board is shorted between GND and VCC
+
+## Notes/Feature Requests
+
+*1 board assembled, this information is subject to change with more boards*
+
+I2C adress read as 0x21 not 0x20 as expected, the reason for this is currently unkown
+
+10k pull up resisotrs appear to not be a problem. Need to test in conjuction with other sensors
+

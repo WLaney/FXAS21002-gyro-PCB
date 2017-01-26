@@ -6,4 +6,4 @@ These boards can be stacked to help save space in embedded projects.
 
 This board was desgined as part of the Sharkduino Project at The College of William and Mary, more information can be found at [sharkduino.com](http://www.sharkduino.com)
 
-This design is realised for free under the MIT license, please see license.txt for details. 
+This design is released for free under the MIT license, please see license.txt for details. 

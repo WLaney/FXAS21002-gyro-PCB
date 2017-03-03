@@ -42,9 +42,9 @@ Assemblie steps:
 
 ## Notes/Feature Requests
 
-*1 board assembled, this information is subject to change with more boards*
+*this information is subject to change with as more boards are assembled*
 
-I2C adress read as 0x21 not 0x20 as expected, the reason for this is currently unkown
+I2C adress read as 0x21 not 0x20 as expected on one board, the reason for this is currently unkown. Chances are there was some bad soldering.
 
-10k pull up resisotrs appear to not be a problem. Need to test in conjuction with other sensors
+10k pull up resisotrs appear to not be a problem.
 
